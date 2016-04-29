@@ -1,6 +1,6 @@
 # ShootrBlog
 
-Shootr’s technical blog developed using Elixir & Phoenix.
+Blog example developed using Elixir & Phoenix. It's a great example for those who wants to start learning Elixir!
 
 About us: http://shootr.com/
 
