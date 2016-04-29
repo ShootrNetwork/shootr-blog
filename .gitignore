@@ -3,3 +3,10 @@
 /deps
 erl_crash.dump
 *.ez
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/copyright/profiles_settings.xml

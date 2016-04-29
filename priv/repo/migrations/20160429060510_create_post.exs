@@ -4,6 +4,7 @@ defmodule ShootrBlog.Repo.Migrations.CreatePost do
   def change do
     create table(:posts) do
       add :title, :string
+      add :author, :string
       add :body, :text
 
       timestamps

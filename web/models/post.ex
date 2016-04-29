@@ -5,12 +5,13 @@ defmodule ShootrBlog.Post do
   schema "posts" do
     field :title, :string
     field :body, :string
+    field :author, :string
     has_many :comments, ShootrBlog.Comment
 
     timestamps
   end
 
-  @required_fields ~w(title body)
+  @required_fields ~w(title body author)
   @optional_fields ~w()
 
   @doc """
