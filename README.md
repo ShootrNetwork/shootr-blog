@@ -1,6 +1,8 @@
 # ShootrBlog
 
-Shoots’s technical blog developed using Elixir & Phoenix.
+Shootr’s technical blog developed using Elixir & Phoenix.
+
+About us: http://shootr.com/
 
 To start your Phoenix app:
 
